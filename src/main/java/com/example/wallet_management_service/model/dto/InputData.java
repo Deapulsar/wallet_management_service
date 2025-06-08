@@ -10,6 +10,9 @@ import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 import java.util.UUID;
 
+/**
+ * Модель входных данных для изменения баланса кошелька.
+ */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
